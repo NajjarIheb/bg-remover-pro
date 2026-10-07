@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch>=2.2.0
+torchvision>=0.17.0
+transformers>=4.40.0
+timm>=1.0.0
+accelerate>=0.30.0
+pillow>=10.0.0
+opencv-python-headless>=4.9.0
+tqdm>=4.66.0
+gradio>=4.30.0
+rembg>=2.0.50
+psutil>=5.9.0
+einops>=0.7.0
